@@ -20,8 +20,8 @@ tarek({
 
 ## Options
 
-|           | Default                         |
-| --------- | ------------------------------- |
-| `type`    | success                         |
-| `message` | You didn't provide all options. |
-| `name`    | The log type                    |
+|           | Default                         | Available
+| --------- | ------------------------------- |---------------------------------- |
+| `type`    | success                         | error, warning, success, info     |
+| `message` | You didn't provide all options. |					  |
+| `name`    | The log type                    |					  |
